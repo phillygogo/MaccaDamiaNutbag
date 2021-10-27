@@ -1,0 +1,33 @@
+/* why are you in my comments, philly */
+body {
+	background: #f1f7fd;
+}
+
+.flexspan {
+	display:flex;
+	flex-flow:wrap;
+	justify-content: space-around;
+	list-style: none;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	}
+.head {
+	background: #79B2EC;
+	text-align: center;
+	padding: 10px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: aliceblue;
+	margin: 15;
+}
+.flexbox {
+	background-color: #30475e;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: aliceblue;
+	padding: 5px;
+	width: 30%;
+	height: 150px;
+	margin-top: 10px;
+	line-height: 150px;
+	text-align: center;
+}
